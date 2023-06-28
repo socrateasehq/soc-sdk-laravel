@@ -34,4 +34,4 @@ Socratease SDK works. You can change the parameters in the .env file and see how
 
 This video\_ shows you how to install and run the project.
 
-.. \_video: https://www.loom.com/share/0af61f8690e34f5ebeae2eff7c4e9a17
+.. \_video: https://www.loom.com/share/a676f5c6f7f94c068fac7aab0b5940c3
