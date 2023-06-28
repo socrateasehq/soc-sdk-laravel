@@ -14,6 +14,12 @@ Steps to install Laravel
 
 Visit this https://kinsta.com/knowledgebase/install-laravel/ to install laravel as per operating system
 
+To run this example install the PHP packages required by executing the following command:
+
+::
+
+    $ composer install
+
 # Run application
 
 ::
