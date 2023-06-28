@@ -13,6 +13,18 @@ use Illuminate\Support\Facades\Route;
 |
  */
 
+Route::get('/', function () {
+ return view('home');
+});
+
+Route::get('/pricing', function () {
+ return view('pricing');
+});
+
+Route::get('/faq', function () {
+ return view('faq');
+});
+
 Route::get('/assessments/{any}', function ($any) {
  $payload_array = [
   'username'     => 'new_user@gmail.com',
@@ -49,7 +61,3 @@ Route::get('/assessments/{any}', function ($any) {
  ]);
 
 })->where('any', '.*');
-
-Route::get('/', function () {
- return view('welcome');
-});
