@@ -12,7 +12,7 @@ Steps to install Laravel
 
 ::
 
-    Visit this url https://kinsta.com/knowledgebase/install-laravel/
+    Visit this [url](https://kinsta.com/knowledgebase/install-laravel/) to install laravel as per operating system
 
 # Run application
 
